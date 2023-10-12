@@ -1,0 +1,33 @@
+/* style.css */
+
+/* Styling header */
+header {
+    background-color: #835d5d;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Styling navigasi */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Styling konten utama */
+main {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
